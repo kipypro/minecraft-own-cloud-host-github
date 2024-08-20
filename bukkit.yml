@@ -1,4 +1,7 @@
 settings:
+  compatibility:
+    enum-compatibility-mode: false
+    allow-old-keys-in-registry: false
   allow-end: true
   warn-on-overload: true
   permissions-file: permissions.yml

@@ -1,0 +1,281 @@
+[05:14:56 INFO]!_/f !_/6[ServerCtrl] !_/awas coded by blitzdose
+[05:14:56 INFO]!_/f !_/6[ServerCtrl] !_/aVersion: !_/f4.1.3
+[05:14:56 INFO]!_/f [org.geysermc.floodgate.SpigotPlugin] [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[05:14:57 INFO]!_/f [com.viaversion.viabackwards.BukkitPlugin] [ViaBackwards] Enabling ViaBackwards v4.8.1
+[05:14:57 INFO]!_/f [gg.playit.minecraft.PlayitBukkit] [playit-gg] Enabling playit-gg v0.1.4
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] Enabling Geyser-Spigot v2.4.2-SNAPSHOT
+[05:14:59 INFO]!_/f [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[05:14:59 INFO]!_/f [gg.playit.minecraft.PlayitKeysSetup] check secret
+[05:14:59 INFO]!_/f [Minecraft] Server permissions file permissions.yml is empty, ignoring it
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] ******************************************
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] 
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] Loading Geyser version 2.4.2-b650 (git-master-7da1d7d)
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] 
+[05:14:59 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] ******************************************
+[05:15:00 INFO]!_/f !_/6[ServerCtrl] !_/aWebserver started on Port: !_/f5718
+[05:15:01 INFO]!_/f [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: rather-kits.gl.joinmc.link
+[05:15:01 INFO]!_/f [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[05:15:01 INFO]!_/f [21m[4mplayit.gg: tunnel setup
+[05:15:01 INFO]!_/f [21m[4mplayit.gg: rather-kits.gl.joinmc.link
+[05:15:01 WARN]!_/f [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:82c:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[05:15:02 INFO]!_/f [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[05:15:06 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] Started Geyser on UDP port 25565
+[05:15:06 INFO]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] Done (7.244s)! Run /geyser help for help!
+[05:15:06 INFO]!_/f [net.minecraft.server.dedicated.DedicatedServer] Done (14.690s)! For help, type "help"
+[05:15:06 INFO]!_/f [net.minecraft.server.dedicated.DedicatedServer] Starting GS4 status listener
+[05:15:06 WARN]!_/f [net.minecraft.server.rcon.thread.RemoteStatusListener] Unable to initialise query system on 0.0.0.0:25565
+[05:15:06 INFO]!_/f [com.viaversion.viaversion.ViaVersionPlugin] [ViaVersion] Finished mapping loading, shutting down loader executor!
+[05:15:06 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: org.geysermc.geyser.network.netty.ChannelWrapper@19e7caf6
+[05:15:07 WARN]!_/f [com.viaversion.viaversion.ViaVersionPlugin] [ViaVersion] There is a newer plugin version available: 5.0.3, you're on: 4.8.1
+[05:15:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x34eee380, L:/127.0.0.1:25565 - R:/127.0.0.1:57158]
+[05:15:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x38dc1292, L:/127.0.0.1:25565 - R:/127.0.0.1:57160]
+[05:15:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x6baa512b, L:/127.0.0.1:25565 - R:/127.0.0.1:57174]
+[05:15:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x58e9d083, L:/127.0.0.1:25565 - R:/127.0.0.1:46326]
+[05:15:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x69e56be2, L:/127.0.0.1:25565 - R:/127.0.0.1:46334]
+[05:15:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x194506d0, L:/127.0.0.1:25565 - R:/127.0.0.1:46348]
+[05:15:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x755be9b6, L:/127.0.0.1:25565 - R:/127.0.0.1:38778]
+[05:15:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x2978dbea, L:/127.0.0.1:25565 - R:/127.0.0.1:38788]
+[05:15:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xcc03d1f1, L:/127.0.0.1:25565 - R:/127.0.0.1:38792]
+[05:15:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x1c3dd9c6, L:/127.0.0.1:25565 - R:/127.0.0.1:51634]
+[05:15:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x966278a6, L:/127.0.0.1:25565 - R:/127.0.0.1:51646]
+[05:15:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x80ee4450, L:/127.0.0.1:25565 - R:/127.0.0.1:51652]
+[05:15:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x5afa407d, L:/127.0.0.1:25565 - R:/127.0.0.1:51656]
+[05:15:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x3b2dbfe6, L:/127.0.0.1:25565 - R:/127.0.0.1:45702]
+[05:15:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x2b2091d6, L:/127.0.0.1:25565 - R:/127.0.0.1:45712]
+[05:15:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xd9af7373, L:/127.0.0.1:25565 - R:/127.0.0.1:45720]
+[05:15:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xceddf52f, L:/127.0.0.1:25565 - R:/127.0.0.1:37938]
+[05:15:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:15:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xed4d0665, L:/127.0.0.1:25565 - R:/127.0.0.1:37946]
+[05:15:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x390161cf, L:/127.0.0.1:25565 - R:/127.0.0.1:37948]
+[05:16:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:04 INFO]!_/f Unknown command. Type "/help" for help.
+[05:16:04 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc6708f19, L:/127.0.0.1:25565 - R:/127.0.0.1:50840]
+[05:16:04 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x882992ea, L:/127.0.0.1:25565 - R:/127.0.0.1:50856]
+[05:16:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x737b24f9, L:/127.0.0.1:25565 - R:/127.0.0.1:50868]
+[05:16:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc9ed3e4f, L:/127.0.0.1:25565 - R:/127.0.0.1:50874]
+[05:16:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc6322506, L:/127.0.0.1:25565 - R:/127.0.0.1:39028]
+[05:16:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x8659e2ad, L:/127.0.0.1:25565 - R:/127.0.0.1:39036]
+[05:16:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x8ab06d80, L:/127.0.0.1:25565 - R:/127.0.0.1:39038]
+[05:16:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xe36cf271, L:/127.0.0.1:25565 - R:/127.0.0.1:38820]
+[05:16:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x947cabc0, L:/127.0.0.1:25565 - R:/127.0.0.1:38830]
+[05:16:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x10050e4e, L:/127.0.0.1:25565 - R:/127.0.0.1:38844]
+[05:16:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x29037fd5, L:/127.0.0.1:25565 - R:/127.0.0.1:45666]
+[05:16:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xf71c8152, L:/127.0.0.1:25565 - R:/127.0.0.1:45680]
+[05:16:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xab00a09e, L:/127.0.0.1:25565 - R:/127.0.0.1:45690]
+[05:16:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x9661b213, L:/127.0.0.1:25565 - R:/127.0.0.1:45698]
+[05:16:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x892b2dbd, L:/127.0.0.1:25565 - R:/127.0.0.1:54704]
+[05:16:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x8c4f427d, L:/127.0.0.1:25565 - R:/127.0.0.1:54716]
+[05:16:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xca334017, L:/127.0.0.1:25565 - R:/127.0.0.1:54732]
+[05:16:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa2b27c7d, L:/127.0.0.1:25565 - R:/127.0.0.1:56336]
+[05:16:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:16:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x78a8e0e8, L:/127.0.0.1:25565 - R:/127.0.0.1:56348]
+[05:16:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc399a47d, L:/127.0.0.1:25565 - R:/127.0.0.1:56358]
+[05:17:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:04 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x0f61c32f, L:/127.0.0.1:25565 - R:/127.0.0.1:47920]
+[05:17:04 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x8f58fcbb, L:/127.0.0.1:25565 - R:/127.0.0.1:47932]
+[05:17:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x829b9dab, L:/127.0.0.1:25565 - R:/127.0.0.1:47934]
+[05:17:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x6bd2f3d4, L:/127.0.0.1:25565 - R:/127.0.0.1:47944]
+[05:17:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4e27dcaa, L:/127.0.0.1:25565 - R:/127.0.0.1:56204]
+[05:17:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x32cdb8dc, L:/127.0.0.1:25565 - R:/127.0.0.1:56212]
+[05:17:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa7c6b80b, L:/127.0.0.1:25565 - R:/127.0.0.1:56228]
+[05:17:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc5c4a55a, L:/127.0.0.1:25565 - R:/127.0.0.1:60626]
+[05:17:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x5a11ab50, L:/127.0.0.1:25565 - R:/127.0.0.1:60642]
+[05:17:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x10959847, L:/127.0.0.1:25565 - R:/127.0.0.1:60650]
+[05:17:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4119d211, L:/127.0.0.1:25565 - R:/127.0.0.1:58512]
+[05:17:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x173c8917, L:/127.0.0.1:25565 - R:/127.0.0.1:58522]
+[05:17:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xe9276152, L:/127.0.0.1:25565 - R:/127.0.0.1:58530]
+[05:17:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x20b1f39b, L:/127.0.0.1:25565 - R:/127.0.0.1:58542]
+[05:17:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa525d428, L:/127.0.0.1:25565 - R:/127.0.0.1:33316]
+[05:17:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x75225ddc, L:/127.0.0.1:25565 - R:/127.0.0.1:33320]
+[05:17:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x24a67348, L:/127.0.0.1:25565 - R:/127.0.0.1:33332]
+[05:17:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xb8567ce1, L:/127.0.0.1:25565 - R:/127.0.0.1:35152]
+[05:17:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:17:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x01b142a0, L:/127.0.0.1:25565 - R:/127.0.0.1:35162]
+[05:17:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xe153689b, L:/127.0.0.1:25565 - R:/127.0.0.1:35172]
+[05:18:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:04 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xdf1abe37, L:/127.0.0.1:25565 - R:/127.0.0.1:55224]
+[05:18:04 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x96ab2f7c, L:/127.0.0.1:25565 - R:/127.0.0.1:55230]
+[05:18:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x518289e8, L:/127.0.0.1:25565 - R:/127.0.0.1:55238]
+[05:18:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x6f9fd3ff, L:/127.0.0.1:25565 - R:/127.0.0.1:55244]
+[05:18:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x7f971563, L:/127.0.0.1:25565 - R:/127.0.0.1:41746]
+[05:18:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4d445fb3, L:/127.0.0.1:25565 - R:/127.0.0.1:41758]
+[05:18:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x62ce7b58, L:/127.0.0.1:25565 - R:/127.0.0.1:41768]
+[05:18:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x38af5090, L:/127.0.0.1:25565 - R:/127.0.0.1:55770]
+[05:18:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4dec6f6c, L:/127.0.0.1:25565 - R:/127.0.0.1:55774]
+[05:18:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x141782ee, L:/127.0.0.1:25565 - R:/127.0.0.1:55784]
+[05:18:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x7761d7e6, L:/127.0.0.1:25565 - R:/127.0.0.1:55874]
+[05:18:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xf285e42b, L:/127.0.0.1:25565 - R:/127.0.0.1:55882]
+[05:18:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x3decbdf8, L:/127.0.0.1:25565 - R:/127.0.0.1:55898]
+[05:18:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xebe6b60d, L:/127.0.0.1:25565 - R:/127.0.0.1:55914]
+[05:18:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.22:13237, peerAddr=172.104.152.224:34418, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, -109, -71, -35, 22, 51, -75, -84, 104, -104, -32, -122, 114, 69, -106, -94, -61, -85, 7, 102, -60, -49, -11, 0, 0, 0, 0, 0, 10, -87, -48, 0, 0, 0, 0, 0, 54, 114, 69, -81, -61, -85, 7, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, -127, 109, 23, -30, 120, -110, 86, 101, 65, -81, 102, -79, 56, -1, 46, -3], tunnelServerId=1, dataCenterId=36}
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43783 to claim client
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[05:18:45 INFO]!_/f [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[05:18:45 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa5083244, L:/127.0.0.1:25565 - R:/127.0.0.1:38204]
+[05:18:45 WARN]!_/f [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
+[05:18:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x69d95162, L:/127.0.0.1:25565 - R:/127.0.0.1:38208]
+[05:18:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4cc23b5f, L:/127.0.0.1:25565 - R:/127.0.0.1:38218]
+[05:18:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x80b77eeb, L:/127.0.0.1:25565 - R:/127.0.0.1:38234]
+[05:18:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x026a9fd1, L:/127.0.0.1:25565 - R:/127.0.0.1:41486]
+[05:18:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:18:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x7c7ecb67, L:/127.0.0.1:25565 - R:/127.0.0.1:41488]
+[05:18:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc7928485, L:/127.0.0.1:25565 - R:/127.0.0.1:41502]
+[05:19:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:03 INFO]!_/f [gg.playit.control.ChannelSetup] send keep alive
+[05:19:04 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x15963902, L:/127.0.0.1:25565 - R:/127.0.0.1:38698]
+[05:19:04 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x194fd8ec, L:/127.0.0.1:25565 - R:/127.0.0.1:38714]
+[05:19:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x6daf7c3b, L:/127.0.0.1:25565 - R:/127.0.0.1:38716]
+[05:19:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa7a0aebf, L:/127.0.0.1:25565 - R:/127.0.0.1:38730]
+[05:19:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x06f7678c, L:/127.0.0.1:25565 - R:/127.0.0.1:52618]
+[05:19:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa0b0b70b, L:/127.0.0.1:25565 - R:/127.0.0.1:52620]
+[05:19:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x4c38738e, L:/127.0.0.1:25565 - R:/127.0.0.1:52624]
+[05:19:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x0a6991f8, L:/127.0.0.1:25565 - R:/127.0.0.1:53100]
+[05:19:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xd3af4e1f, L:/127.0.0.1:25565 - R:/127.0.0.1:53116]
+[05:19:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x3cb873ab, L:/127.0.0.1:25565 - R:/127.0.0.1:53118]
+[05:19:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xf8c05fc5, L:/127.0.0.1:25565 - R:/127.0.0.1:33542]
+[05:19:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x07236f36, L:/127.0.0.1:25565 - R:/127.0.0.1:33554]
+[05:19:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x975a83a1, L:/127.0.0.1:25565 - R:/127.0.0.1:33562]
+[05:19:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x865deb61, L:/127.0.0.1:25565 - R:/127.0.0.1:33564]
+[05:19:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x8e0a4921, L:/127.0.0.1:25565 - R:/127.0.0.1:47510]
+[05:19:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x7dba2658, L:/127.0.0.1:25565 - R:/127.0.0.1:47524]
+[05:19:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x82b73eb2, L:/127.0.0.1:25565 - R:/127.0.0.1:47540]
+[05:19:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xde044f77, L:/127.0.0.1:25565 - R:/127.0.0.1:45138]
+[05:19:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:19:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x2ef6747b, L:/127.0.0.1:25565 - R:/127.0.0.1:45144]
+[05:19:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc86020a2, L:/127.0.0.1:25565 - R:/127.0.0.1:45154]
+[05:20:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:04 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x137e8dda, L:/127.0.0.1:25565 - R:/127.0.0.1:44878]
+[05:20:04 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:07 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x9622a98e, L:/127.0.0.1:25565 - R:/127.0.0.1:44886]
+[05:20:07 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:10 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xa163fbd0, L:/127.0.0.1:25565 - R:/127.0.0.1:44902]
+[05:20:10 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:13 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xf6824eff, L:/127.0.0.1:25565 - R:/127.0.0.1:44910]
+[05:20:13 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:16 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x69dd31d6, L:/127.0.0.1:25565 - R:/127.0.0.1:47390]
+[05:20:16 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:19 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xada09bcf, L:/127.0.0.1:25565 - R:/127.0.0.1:47400]
+[05:20:19 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:22 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xe0c24c58, L:/127.0.0.1:25565 - R:/127.0.0.1:47414]
+[05:20:22 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:25 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc6396302, L:/127.0.0.1:25565 - R:/127.0.0.1:47950]
+[05:20:25 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:28 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x03e35fb6, L:/127.0.0.1:25565 - R:/127.0.0.1:47962]
+[05:20:28 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:31 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xc1a0cadc, L:/127.0.0.1:25565 - R:/127.0.0.1:47972]
+[05:20:31 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:34 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x1d59a543, L:/127.0.0.1:25565 - R:/127.0.0.1:33398]
+[05:20:34 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:37 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x1ccfd22a, L:/127.0.0.1:25565 - R:/127.0.0.1:33408]
+[05:20:37 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:40 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xbc08ca35, L:/127.0.0.1:25565 - R:/127.0.0.1:33420]
+[05:20:40 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:43 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xac5787b5, L:/127.0.0.1:25565 - R:/127.0.0.1:33436]
+[05:20:43 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:46 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xffd0672a, L:/127.0.0.1:25565 - R:/127.0.0.1:60776]
+[05:20:46 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:49 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x7db5259c, L:/127.0.0.1:25565 - R:/127.0.0.1:60778]
+[05:20:49 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:52 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x440c75d5, L:/127.0.0.1:25565 - R:/127.0.0.1:60786]
+[05:20:52 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:55 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x97545123, L:/127.0.0.1:25565 - R:/127.0.0.1:35076]
+[05:20:55 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:20:58 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0xfa92b463, L:/127.0.0.1:25565 - R:/127.0.0.1:35086]
+[05:20:58 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[05:21:01 WARN]!_/f [io.netty.channel.ChannelInitializer] Failed to initialize a channel. Closing: [id: 0x9ea33765, L:/127.0.0.1:25565 - R:/127.0.0.1:35100]
+[05:21:01 WARN]!_/f [org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin] [Geyser-Spigot] IO error while trying to use legacy ping passthrough

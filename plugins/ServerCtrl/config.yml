@@ -1,0 +1,33 @@
+Update-Check: true
+Logging-types:
+- LOGIN_SUCCESS
+- LOGIN_FAIL
+- COMMAND_SEND
+- DOWNLOADED_FILES
+- UPLOADED_FILES
+- PLAYER_JOINED
+- PLAYER_QUIT
+Webserver:
+  https: false
+  frontend: true
+  servername: Server Remote
+  port: 5718
+  editable-files:
+  - txt
+  - yml
+  - json
+  - properties
+  - log
+  users:
+    admin: NcBlAHfnLCkxz7ew9UU7kXKSPy57Xy4LHS_CNXZq8f0=
+  permissions:
+    admin:
+    - KICK
+    - BAN
+    - OP
+    - CONSOLE
+    - PLUGINSETTINGS
+    - SERVERSETTINGS
+    - LOG
+    - FILES
+    - ADMIN
